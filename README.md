@@ -1,12 +1,16 @@
 # Horiseon Marketing (HW1)
 ## Description
 This project was made to refactor existing code to make it more accessible and semantically viable
+
 ## Usage
+AS A USER I want to find information about what services Horiseon marketing offers
+
+## Installation
 N/A
-##Installation
-N/A
+
 ## Credits
 All images and original code provided by Georgia Tech Full Stack Coding Bootcamp (© 2023 edX Boot Camps LLC)
+
 ## License
 MIT License
 
