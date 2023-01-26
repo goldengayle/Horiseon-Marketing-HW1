@@ -1,4 +1,4 @@
-# Module 1 Challenge
+# Horiseon Marketing (HW1)
 ## Description
 This project was made to refactor existing code to make it more accessible and semantically viable
 ## Usage
