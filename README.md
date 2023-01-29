@@ -3,7 +3,8 @@
 This project is a landing page for a fictitious marketing agency. The project gave me an opportunity to practice refactoring existing code to make it more accessible and semantically viable
 
 ## Usage
-AS A USER I want to find information about what services Horiseon marketing offers.
+AS A USER I want to find information about what services Horiseon marketing offers. 
+![Screenshot of webspage](assets/images/lennoxscreenshothoriseonmarketing.png)
 
 
 ## Installation
