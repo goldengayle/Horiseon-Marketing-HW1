@@ -18,6 +18,7 @@ a {
     text-decoration: none;
 }
 
+/* Styling for header and navigation bar at the top of the page. */
 
 header {
     padding: 20px;
@@ -51,6 +52,8 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
+/* Main image */
 .hero {
     height: 800px;
     width: 100%;
@@ -60,18 +63,7 @@ header nav ul li {
     background-position: center;
 }
 
-
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
+/* Service Offerings - Three options with images alternating between right and left */
 .content {
     width: 75%;
     display: inline-block;
@@ -97,6 +89,17 @@ header nav ul li {
     font-size: 36px;
 }
 
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Benefits of using horiseon marketing - right side bar detailing 3 components */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -124,12 +127,14 @@ header nav ul li {
     max-width: 150px;
 }
 
-
+/* Footer. Currently not displayed to match mock-up */
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    /* remove display tag below to show header */
+    display:none;
 }
 
 footer h2 {
