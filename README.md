@@ -4,7 +4,8 @@ This project is a landing page for a fictitious marketing agency. The project ga
 
 ## Usage
 AS A USER I want to find information about what services Horiseon marketing offers. 
-![Screenshot of webspage](assets/images/LennoxScreenshotHoriseonMarketing.png)
+<img src="assets/images/LennoxScreenshotHoriseonMarketing.png" alt="screenshot of webpage" width=50%>
+
 
 
 ## Installation
