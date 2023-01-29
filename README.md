@@ -1,9 +1,10 @@
 # Horiseon Marketing (HW1)
 ## Description
-This project was made to refactor existing code to make it more accessible and semantically viable
+This project is a landing page for a fictitious marketing agency. The project gave me an opportunity to practice refactoring existing code to make it more accessible and semantically viable
 
 ## Usage
-AS A USER I want to find information about what services Horiseon marketing offers
+AS A USER I want to find information about what services Horiseon marketing offers.
+
 
 ## Installation
 N/A
